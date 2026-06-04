@@ -1,0 +1,11 @@
+[package]
+name = "sequoia"
+description = "beautiful tree generator"
+version = "0.1.0"
+homepage = "https://github.com/pi-game/sequoia"
+repository = "https://github.com/pi-game/sequoia"
+license = "Apache-2.0"
+edition = "2024"
+
+[dependencies]
+bevy = "0.18.1"
